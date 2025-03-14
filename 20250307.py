@@ -1,0 +1,16 @@
+print("Hello! "+input("What's your name: "))
+input('학교 : ')
+input('학년 : ')
+print("나는 ", input("학교 : ")+"중학교", input("학년 : ")+"학년입니다.")
+print("\"Hello\"")
+print("*\n**\n***\n****\n*****")
+print("\'습관\'보다\n\t강한 것은 없다")
+import turtle
+turtle.shape("turtle")
+turtle.circle(50)
+turtle.done()
+import turtle
+turtle.shape("turtle")
+turtle.write("welcome to python world !", True, font=("Arial", 18, "bold"))
+turtle.circle(18,210)
+turtle.done()
