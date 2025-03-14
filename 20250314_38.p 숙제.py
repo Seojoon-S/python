@@ -1,0 +1,6 @@
+height = input("height : ")
+height = int(height)
+width = input("width : ")
+width = int(width)
+area = float()
+print("area : %.1lf "%(height * width / 2 * 1.0))
